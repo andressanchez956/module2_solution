@@ -7,3 +7,9 @@ p {
 	background: blue;
 	padding:200px;
 }
+
+div {
+	color: white;
+	background: green;
+	padding: 30px;
+}
