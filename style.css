@@ -47,18 +47,20 @@ section > span {
 }
 
 #item1 {
-	color: #EDEDED;
-	background: black;
+	color: white;
+	background: #8E5572;
 	padding: 2px 40px;
 }
 
 #item2 {
-	background: #1aa64b;
+	color: white;
+	background: #2B2118;
 	padding: 2px 54px;
 }
 
 #item3 {
-	background: #4ac776;
+	color: white;
+	background: #2292A4;
 	padding: 2px 52px;
 }
 
